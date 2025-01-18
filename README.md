@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://burakbektas.com.tr/](https://burakbektas.com.tr/)
+- 👨‍💻 For more details about me check [https://burakbektas.com.tr/](https://burakbektas.com.tr/)
 
 - 📝 I regularly write articles on [https://medium.com/@bektasburakk](https://medium.com/@bektasburakk)
 
